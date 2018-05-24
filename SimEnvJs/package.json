@@ -1,0 +1,9 @@
+{
+  "name": "sim-env-js",
+  "version": "0.0.0",
+  "description": "SimEnvJs",
+  "main": "demo.js",
+  "author": {
+    "name": "rr51268"
+  }
+}

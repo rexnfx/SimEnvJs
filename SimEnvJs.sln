@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SimEnvJs", "SimEnvJs\SimEnvJs.njsproj", "{59592732-5146-4A84-B8F6-C9EC561BE4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59592732-5146-4A84-B8F6-C9EC561BE4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59592732-5146-4A84-B8F6-C9EC561BE4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59592732-5146-4A84-B8F6-C9EC561BE4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59592732-5146-4A84-B8F6-C9EC561BE4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34040CCD-1278-4E37-819E-63CE31C32A40}
+	EndGlobalSection
+EndGlobal
